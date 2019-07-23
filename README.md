@@ -7,7 +7,7 @@ this makes plain TCP sockets into corresponding websockets, then converts it onc
 
 reference [here](https://forums.alliedmods.net/showthread.php?t=298782) to check out how does it handshakes with Websocket server.
 
-Some codes of websocket client are taken from (peace-maker's sm-websocket)[https://github.com/peace-maker/sm-websocket] which simulate a websocket server.
+Some codes of websocket client are taken from [peace-maker's sm-websocket](https://github.com/peace-maker/sm-websocket) which simulate a websocket server.
 
 I revert the processes to make it work as a websocket client.
 
