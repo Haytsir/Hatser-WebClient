@@ -11,7 +11,7 @@ Some codes of websocket client are taken from (peace-maker's sm-websocket)[https
 
 I revert the processes to make it work as a websocket client.
 
-check out [RFC 6455](https://tools.ietf.org/html/rfc6455) to see how websocket protocol works.
+check out [RFC 6455](https://tools.ietf.org/html/rfc6455) to see how the websocket protocol works.
 
 ## 이미지
 ![](https://i.imgur.com/Dr5eWj8.gif)
